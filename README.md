@@ -1,5 +1,7 @@
 # Awesome-LLM-Systems-Papers
 
+This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM Lab](https://alchem.cs.purdue.edu/index.html). Welcome to create a pull requst or an issue if we have missed any interesting papers!
+
 ## Algorithm-System Co-Design
 
 - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity (JMLR'21) [link to paper](https://www.jmlr.org/papers/volume23/21-0998/21-0998.pdf)
