@@ -7,6 +7,9 @@
 - Improving Language Understanding by Generative Pretraining (preprint) [link to paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - Language Models are Few-Shot Learners (NeurIPS'20) [link to paper](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
+- DeepMind: Training Compute Optimal Large Language Models (preprint) [link to paper](https://arxiv.org/pdf/2203.15556.pdf)
+- Scaling Laws for Neural Language Models (preprint) [link to paper](https://arxiv.org/pdf/2001.08361.pdf)
+
 ## LLM Inference (Serving) Systems
 
 ### Single-GPU Systems
@@ -16,6 +19,8 @@
 ## LLM Training Systems
 
 ### Single-GPU Systems
+
+- CRAMMING: Training a Language Model on a Single GPU in One Day (preprint) [link to paper](https://arxiv.org/pdf/2212.14034)
 
 ### Distributed Systems
 
