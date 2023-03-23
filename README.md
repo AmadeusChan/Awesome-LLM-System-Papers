@@ -1,4 +1,4 @@
-# Awesome-LLM-Systems-Papers
+# Awesome-LLM-System-Papers
 
 This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM Lab](https://alchem.cs.purdue.edu/index.html). Welcome to create a pull requst or an issue if we have missed any interesting papers!
 
