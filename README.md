@@ -1,16 +1,5 @@
 # Awesome-LLM-Systems-Papers
 
-## LLM Algorithm Papers Recommended for System Researchers
-
-- Attention is all you need (NeurIPS'17) [link to paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
-- Language Models are Unsupervised Multitask Learners (preprint from OpenAI) [link to paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-- Improving Language Understanding by Generative Pretraining (preprint from OpenAI) [link to paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-- Language Models are Few-Shot Learners (NeurIPS'20) [link to paper](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
-
-- DeepMind: Training Compute Optimal Large Language Models (preprint from DeepMind) [link to paper](https://arxiv.org/pdf/2203.15556.pdf)
-- Scaling Laws for Neural Language Models (preprint) [link to paper](https://arxiv.org/pdf/2001.08361.pdf)
-- Scaling Language Models: Methods, Analysis & Insights from Training Gopher (preprint from DeepMind) [link to paper](https://arxiv.org/pdf/2112.11446.pdf)
-
 ## Algorithm-System Co-Design
 
 - DeepSpeed-MOE: Advancing Mixture of Experts Inference and Training to Power Next-Generation AI Scale (ICML'22) [link to paper](https://proceedings.mlr.press/v162/rajbhandari22a/rajbhandari22a.pdf)
@@ -59,6 +48,28 @@
 - GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism (NeurIPS'19) [link to paper](https://proceedings.neurips.cc/paper/2019/file/093f65e080a295f8076b1c5722a46aa2-Paper.pdf)
 - Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences (OSDI'22) [link to paper](https://www.usenix.org/conference/osdi22/presentation/han)
 
+## LLM Algorithm Papers Recommended for System Researchers
+
+- Attention is all you need (NeurIPS'17) [link to paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- Language Models are Unsupervised Multitask Learners (preprint from OpenAI) [link to paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+- Improving Language Understanding by Generative Pretraining (preprint from OpenAI) [link to paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- Language Models are Few-Shot Learners (NeurIPS'20) [link to paper](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+- Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (JMLR'20) [link to paper](https://jmlr.org/papers/volume21/20-074/20-074.pdf)
+- Multitask Prompted Training Enables Zero-Shot Task Generalization (ICLR'22) [link to paper](https://openreview.net/pdf?id=9Vrb9D0WI4)
+- Finetuned Language Models are Zero-Shot Learners (ICLR'22) [link to paper](https://openreview.net/forum?id=gEZrGCozdqR)
+- GLaM: Efficient Scaling of Language Models with Mixture-of-Experts (ICML'22) [link to paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C15&q=GLaM%3A+Efficient+Scaling+of+Language+Models+with+Mixture-of-Experts&btnG=)
+- LaMDA: Language Models for Dialog Applications (arXiv'22) [link to paper](https://arxiv.org/pdf/2201.08239.pdf)
+- PaLM: Scaling Language Modeling with Pathways (arXiv'22) [link to paper](https://arxiv.org/pdf/2204.02311.pdf)
+- OPT: Open Pre-trained Transformer Language Models (arXiv'22) [link to paper](https://arxiv.org/pdf/2205.01068.pdf?fbclid=IwAR1_0YiQKgxIsy8unzoLvL9E2OA41_kze-H0YvhoCzIQUp_gk-MR9dUs2ZE)
+- Holistic Evaluation of Language Models (arXiv'22) [link to paper](https://arxiv.org/pdf/2211.09110.pdf)
+- BLOOM: A 176B-Parameter Open-Access Multilingual Language Model (arXiv'23) [link to paper](https://arxiv.org/pdf/2211.05100.pdf)
+- LLaMA: Open and Efficient Foundation Language Models (arXiv'23) [link to paper](https://scontent-atl3-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=fskqjIsP1vwAX-oLQNg&_nc_ht=scontent-atl3-1.xx&oh=00_AfBWZMuYRZYFd8oGUIxSdjKcG-EhmQodKMs7-M_IyuYlPw&oe=64216DE2)
+- DeepMind: Training Compute Optimal Large Language Models (preprint from DeepMind) [link to paper](https://arxiv.org/pdf/2203.15556.pdf)
+- Scaling Laws for Neural Language Models (preprint) [link to paper](https://arxiv.org/pdf/2001.08361.pdf)
+- Scaling Language Models: Methods, Analysis & Insights from Training Gopher (preprint from DeepMind) [link to paper](https://arxiv.org/pdf/2112.11446.pdf)
+
+
 ## Other Useful Resources
 
 - [FasterTransformer](https://on-demand.gputechconf.com/gtc-cn/2019/pdf/CN9468/presentation.pdf)
+- [An Awesome ML Course](https://www.youtube.com/@deeplearningsystemscourse1116)
