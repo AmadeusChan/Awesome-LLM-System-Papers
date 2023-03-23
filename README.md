@@ -2,9 +2,9 @@
 
 ## Algorithm-System Co-Design
 
-- DeepSpeed-MOE: Advancing Mixture of Experts Inference and Training to Power Next-Generation AI Scale (ICML'22) [link to paper](https://proceedings.mlr.press/v162/rajbhandari22a/rajbhandari22a.pdf)
 - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity (JMLR'21) [link to paper](https://www.jmlr.org/papers/volume23/21-0998/21-0998.pdf)
-- Scalable and Efficient MoE Training for Multitask Multilingual Models (preprint) [link to paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Scalable+and+Efficient+MoE+Training+for+Multitask+Multilingual+Models&btnG=)
+- Scalable and Efficient MoE Training for Multitask Multilingual Models (arXiv'21) [link to paper](https://arxiv.org/pdf/2109.10465.pdf)
+- DeepSpeed-MOE: Advancing Mixture of Experts Inference and Training to Power Next-Generation AI Scale (ICML'22) [link to paper](https://proceedings.mlr.press/v162/rajbhandari22a/rajbhandari22a.pdf)
 
 ## LLM Inference (Serving) Systems
 
