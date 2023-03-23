@@ -31,7 +31,7 @@
 ### Distributed Systems
 
 - ZeRO: Memory optimizations Toward Training Trillion Parameter Models (SC'20) [link to paper](https://ieeexplore.ieee.org/abstract/document/9355301)
-- Megatron-lm: Training multi-billion parameter language models using model parallelism (arXiv) [link to paper](https://arxiv.org/pdf/1909.08053.pdf)
+- Megatron-lm: Training multi-billion parameter language models using model parallelism (arXiv'20) [link to paper](https://arxiv.org/pdf/1909.08053.pdf)
 - PipeTransformer: Automated Elastic Pipelining for Distributed Training of Large-scale Models Algorithm (ICML'21) [link to paper](http://proceedings.mlr.press/v139/he21a/he21a.pdf)
 - Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM (SC'21) [link to paper](https://dl.acm.org/doi/pdf/10.1145/3458817.3476209?casa_token=u0SaPFr_xwsAAAAA:UdIVbVvdimqGt7Wxk6ntI-BHzRl8JxqhkFdZbrXcqV509CHkq8FwQviI7Fsiw7na15IyYcYFf098SQ)
 - Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model (arXiv'22) [link to paper](https://arxiv.org/pdf/2201.11990.pdf)
