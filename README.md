@@ -2,7 +2,10 @@
 
 ## LLM Algorithm Papers Needed to Know for System Researchers
 
-- Attention is all you need (NIPS'17) [link to paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- Attention is all you need (NeurIPS'17) [link to paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- Language Models are Unsupervised Multitask Learners (preprint) [link to paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+- Improving Language Understanding by Generative Pretraining (preprint) [link to paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- Language Models are Few-Shot Learners (NeurIPS'20) [link to paper](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
 ## LLM Inference (Serving) Systems
 
