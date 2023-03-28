@@ -49,6 +49,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Simultaneous Multikernel GPU: Multi-tasking Throughput Processors via Fine-Grained Sharing (HPCA'16) [link to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7446078&casa_token=vxsr7PVfmXgAAAAA:50JiSZDt8Xzg0lr5tIMu6nlyIRpQawD4HVePmPI-pBOHylszpzBlwPgLEeAPhOhl6cXrHLGhNrg&tag=1)
 - FLEP: Enabling Flexible and Efficient Preemption on GPUs (ASPLOS'17) [link to paper](https://dl.acm.org/doi/10.1145/3037697.3037742)
 - Dynamic Resource Management for Efficient Utilization of Multitasking GPUs (ASPLOS'17) [link to paper](https://dl.acm.org/doi/10.1145/3037697.3037707)
+- Mesh-TensorFlow: Deep Learning for Supercomputers (NeurIPS'18) [link to paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/3a37abdeefe1dab1b30f7c5c7e581b93-Paper.pdf)
 - PipeDream: Fast and Efficient Pipeline Parallel DNN Training (SOSP'19) [link to paper](https://dl.acm.org/doi/10.1145/3341301.3359646)
 - GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism (NeurIPS'19) [link to paper](https://proceedings.neurips.cc/paper/2019/file/093f65e080a295f8076b1c5722a46aa2-Paper.pdf)
 - Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences (OSDI'22) [link to paper](https://www.usenix.org/conference/osdi22/presentation/han)
