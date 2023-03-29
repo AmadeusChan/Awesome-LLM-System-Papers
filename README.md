@@ -42,6 +42,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - LightSeq2: Accelerated Training for Transformer-Based Models on GPUs (SC'22) [link to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10046070&casa_token=Y7UD4u5ej2AAAAAA:sxe5BGbxS2cG0l2vGg7f7L_RchYiovUzvTFgwLC5zRI96PtEzqGLt0TjOpLFvQW4jb6_y7J3R6U)
 - PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing (arXiv'23) [link to paper](https://arxiv.org/abs/2303.10845)
 - Mobius: Fine Tuning Large-Scale Models on Commodity GPU Servers (ASPLOS'23) [link to paper](https://dl.acm.org/doi/10.1145/3575693.3575703)
+- Optimus-CC: Efficient Large NLP Model Training with 3D Parallelism Aware Communication Compression（ASPLOS'23) [link to paper](https://dl.acm.org/doi/pdf/10.1145/3575693.3575712)
 
 ## General MLSys-Related Techniques (Not Complete)
 
