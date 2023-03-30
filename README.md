@@ -6,6 +6,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 
 - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity (JMLR'21) [link to paper](https://www.jmlr.org/papers/volume23/21-0998/21-0998.pdf)
 - Scalable and Efficient MoE Training for Multitask Multilingual Models (arXiv'21) [link to paper](https://arxiv.org/pdf/2109.10465.pdf)
+- GLaM: Efficient Scaling of Language Models with Mixture-of-Expert (ICML'22) [link to paper](https://proceedings.mlr.press/v162/du22c/du22c.pdf)
 - DeepSpeed-MOE: Advancing Mixture of Experts Inference and Training to Power Next-Generation AI Scale (ICML'22) [link to paper](https://proceedings.mlr.press/v162/rajbhandari22a/rajbhandari22a.pdf)
 
 ## LLM Inference (Serving) Systems
@@ -56,7 +57,10 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - PipeDream: Fast and Efficient Pipeline Parallel DNN Training (SOSP'19) [link to paper](https://dl.acm.org/doi/10.1145/3341301.3359646)
 - GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism (NeurIPS'19) [link to paper](https://proceedings.neurips.cc/paper/2019/file/093f65e080a295f8076b1c5722a46aa2-Paper.pdf)
 - PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications (OSDI'20) [link to paper](https://www.usenix.org/system/files/osdi20-bai.pdf)
+- PipeMare: Asynchronous Pipeline Parallel DNN Training (MLsys'21) [link to paper](https://proceedings.mlsys.org/paper_files/paper/2021/file/6c8349cc7260ae62e3b1396831a8398f-Paper.pdf)
+- Memory-Efficient Pipeline-Parallel DNN Training (PipeDream-2BW) (ICML'21) [link to paper](http://proceedings.mlr.press/v139/narayanan21a/narayanan21a.pdf)
 - Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences (OSDI'22) [link to paper](https://www.usenix.org/conference/osdi22/presentation/han)
+- TSPipe: Learn from Teacher Faster with Pipelines (ICML'22) [link to paper](https://proceedings.mlr.press/v162/lim22a/lim22a.pdf)
 - Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models (ASPLOS'23) [link to paper](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959)
 
 
