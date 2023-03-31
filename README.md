@@ -40,6 +40,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model (arXiv'22) [link to paper](https://arxiv.org/pdf/2201.11990.pdf)
 - Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (OSDI'22) [link to paper](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf)
 - LightSeq2: Accelerated Training for Transformer-Based Models on GPUs (SC'22) [link to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10046070&casa_token=Y7UD4u5ej2AAAAAA:sxe5BGbxS2cG0l2vGg7f7L_RchYiovUzvTFgwLC5zRI96PtEzqGLt0TjOpLFvQW4jb6_y7J3R6U)
+- Varuna: Scalable, Low-cost Training of Massive Deep Learning Models (EuroSys'22) [link to paper](https://dl.acm.org/doi/pdf/10.1145/3492321.3519584)
 - PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing (arXiv'23) [link to paper](https://arxiv.org/abs/2303.10845)
 - Mobius: Fine Tuning Large-Scale Models on Commodity GPU Servers (ASPLOS'23) [link to paper](https://dl.acm.org/doi/10.1145/3575693.3575703)
 - Optimus-CC: Efficient Large NLP Model Training with 3D Parallelism Aware Communication Compression（ASPLOS'23) [link to paper](https://dl.acm.org/doi/pdf/10.1145/3575693.3575712)
