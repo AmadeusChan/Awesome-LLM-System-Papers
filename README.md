@@ -81,6 +81,9 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Scaling Laws for Neural Language Models (preprint) [link to paper](https://arxiv.org/pdf/2001.08361.pdf)
 - Scaling Language Models: Methods, Analysis & Insights from Training Gopher (preprint from DeepMind) [link to paper](https://arxiv.org/pdf/2112.11446.pdf)
 
+## Survyes
+- A Survey of Large Language Models (arXiv'23) [link to paper](https://arxiv.org/abs/2303.18223)
+
 
 ## Other Useful Resources
 
