@@ -81,6 +81,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - DeepMind: Training Compute Optimal Large Language Models (preprint from DeepMind) [link to paper](https://arxiv.org/pdf/2203.15556.pdf)
 - Scaling Laws for Neural Language Models (preprint) [link to paper](https://arxiv.org/pdf/2001.08361.pdf)
 - Scaling Language Models: Methods, Analysis & Insights from Training Gopher (preprint from DeepMind) [link to paper](https://arxiv.org/pdf/2112.11446.pdf)
+- LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models (arXiv'23) [link to paper](https://arxiv.org/pdf/2304.01933.pdf)
 
 ## Survyes
 - A Survey of Large Language Models (arXiv'23) [link to paper](https://arxiv.org/abs/2303.18223)
