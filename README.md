@@ -21,6 +21,8 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - DeepSpeed-inference: enabling efficient inference of transformer models at unprecedented scale (SC'22) [link to paper](https://dl.acm.org/doi/abs/10.5555/3571885.3571946)
 - EnergeonAI: An Inference System for 10-100 Billion Parameter Transformer Models (arXiv'22) [link to paper](https://arxiv.org/pdf/2209.02341.pdf)
 - PETALS: Collaborative Inference and Fine-tuning of Large Models (NeurIPS'22 Workshop WBRC) [link to paper](https://openreview.net/pdf?id=Ls_NTjgWXZV)
+- SpecInfer: Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification (preprint'23) [link to paper](https://www.cs.cmu.edu/~zhihaoj2/papers/specinfer.pdf)
+- Fast Distributed Inference Serving for Large Language Models (arXiv'23) [link to paper](https://arxiv.org/pdf/2305.05920.pdf)
 
 ## LLM Training Systems
 
