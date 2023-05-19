@@ -31,6 +31,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - CRAMMING: Training a Language Model on a Single GPU in One Day (arXiv'22) [link to paper](https://arxiv.org/pdf/2212.14034)
 - Easy and Efficient Transformer : Scalable Inference Solution For large NLP model (arXiv'22) [link to paper](https://arxiv.org/pdf/2104.12470.pdf)
 - High-throughput Generative Inference of Large Language Models with a Single GPU (arXiv'23) [link to paper](https://arxiv.org/pdf/2303.06865.pdf)
+- ByteTransformer: A High-Performance Transformer Boosted for Variable-Length Inputs (arXiv'23) [link to paper](https://arxiv.org/pdf/2210.03052.pdf)
 
 ### Distributed Systems
 
