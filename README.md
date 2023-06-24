@@ -50,6 +50,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing (arXiv'23) [link to paper](https://arxiv.org/abs/2303.10845)
 - Mobius: Fine Tuning Large-Scale Models on Commodity GPU Servers (ASPLOS'23) [link to paper](https://dl.acm.org/doi/10.1145/3575693.3575703)
 - Optimus-CC: Efficient Large NLP Model Training with 3D Parallelism Aware Communication Compression（ASPLOS'23) [link to paper](https://dl.acm.org/doi/pdf/10.1145/3575693.3575712)
+- ZeRO++: Extremely Efficient Collective Communication for Giant Model Training (arXiv'2023) [link to paper](https://arxiv.org/pdf/2306.10209.pdf)
 
 ## General MLSys-Related Techniques (Not Complete)
 
