@@ -51,6 +51,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Mobius: Fine Tuning Large-Scale Models on Commodity GPU Servers (ASPLOS'23) [link to paper](https://dl.acm.org/doi/10.1145/3575693.3575703)
 - Optimus-CC: Efficient Large NLP Model Training with 3D Parallelism Aware Communication Compression（ASPLOS'23) [link to paper](https://dl.acm.org/doi/pdf/10.1145/3575693.3575712)
 - ZeRO++: Extremely Efficient Collective Communication for Giant Model Training (arXiv'2023) [link to paper](https://arxiv.org/pdf/2306.10209.pdf)
+- A Hybrid Tensor-Expert-Data Parallelism Approach to Optimize Mixture-of-Experts Training (ICS'23) [link to paper](https://dl.acm.org/doi/abs/10.1145/3577193.3593704)
 
 ## General MLSys-Related Techniques (Not Complete)
 
@@ -99,3 +100,4 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 
 - [FasterTransformer](https://on-demand.gputechconf.com/gtc-cn/2019/pdf/CN9468/presentation.pdf)
 - [An Awesome ML Course](https://www.youtube.com/@deeplearningsystemscourse1116)
+- [An Awesome ML textbook](https://d2l.ai/)
