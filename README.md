@@ -23,6 +23,8 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - PETALS: Collaborative Inference and Fine-tuning of Large Models (NeurIPS'22 Workshop WBRC) [link to paper](https://openreview.net/pdf?id=Ls_NTjgWXZV)
 - SpecInfer: Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification (preprint'23) [link to paper](https://www.cs.cmu.edu/~zhihaoj2/papers/specinfer.pdf)
 - Fast Distributed Inference Serving for Large Language Models (arXiv'23) [link to paper](https://arxiv.org/pdf/2305.05920.pdf)
+- An Efficient Sparse Inference Software Accelerator for Transformer-based Language Models on CPUs (arXiv'23) [link to paper](https://arxiv.org/abs/2306.16601)
+- Accelerating LLM Inference with Staged Speculative Decoding (arXiv'23) [link to paper](https://arxiv.org/abs/2308.04623)
 
 ## LLM Training Systems
 
@@ -53,6 +55,8 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - ZeRO++: Extremely Efficient Collective Communication for Giant Model Training (arXiv'23) [link to paper](https://arxiv.org/pdf/2306.10209.pdf)
 - A Hybrid Tensor-Expert-Data Parallelism Approach to Optimize Mixture-of-Experts Training (ICS'23) [link to paper](https://dl.acm.org/doi/abs/10.1145/3577193.3593704)
 - BPIPE: Memory-Balanced Pipeline Parallelism for Training Large Language Models (ICML'23) [link to paper](https://openreview.net/pdf?id=HVKmLi1iR4)
+- Optimized Network Architectures for Large Language Model Training with Billions of Parameters (arXiv'23) [link to paper](https://arxiv.org/abs/2307.12169)
+- SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient (arXiv'23) [link to paper](https://arxiv.org/abs/2301.11913)
 
 ## General MLSys-Related Techniques (Not Complete)
 
@@ -92,9 +96,18 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models (arXiv'23) [link to paper](https://arxiv.org/pdf/2304.01933.pdf)
 - RWKV: Reinventing RNNs for the Transformer Era (arXiv'23) [link to paper](https://arxiv.org/abs/2305.13048)
 - Blockwise Parallel Transformer for Long Context Large Models (arXiv'23) [link to paper](https://arxiv.org/abs/2305.19370)
+- LongNet: Scaling Transformers to 1,000,000,000 (arXiv'23)[link to paper](https://arxiv.org/abs/2307.02486)
+- SkipDecode: Autoregressive Skip Decoding with Batching and Caching for Efficient LLM Inference (arXiv'23)[link to paper](https://arxiv.org/abs//2307.02628)
+- FlashAttention2: Faster Attention with Better Parallelism and Work Partitioning (arXiv'23)[link to paper](https://tridao.me/publications/flash2/flash2.pdf)
+- Retentive Network: A Successor to Transformers for Large Language Models (arXiv'23)[link to paper](https://arxiv.org/abs/2307.08621)
+- TransNormer: Scaling TransNormer to 175 Billion Parameters (arXiv'23)[link to paper](https://arxiv.org/abs/2307.14995)
+- Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding (arXiv'23)[link to paper](https://arxiv.org/abs/2307.15337)
+- From Sparse to Soft Mixture of Experts (arXiv'23)[link to paper](https://arxiv.org/abs/2308.00951)
+
 
 ## Survyes
 - A Survey of Large Language Models (arXiv'23) [link to paper](https://arxiv.org/abs/2303.18223)
+- Challenges and Applications of Large Language Models (arXiv'23)[link to paper](https://arxiv.org/abs/2307.10169)
 
 
 ## Other Useful Resources
