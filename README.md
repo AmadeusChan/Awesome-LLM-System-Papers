@@ -25,6 +25,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Fast Distributed Inference Serving for Large Language Models (arXiv'23) [link to paper](https://arxiv.org/pdf/2305.05920.pdf)
 - An Efficient Sparse Inference Software Accelerator for Transformer-based Language Models on CPUs (arXiv'23) [link to paper](https://arxiv.org/abs/2306.16601)
 - Accelerating LLM Inference with Staged Speculative Decoding (arXiv'23) [link to paper](https://arxiv.org/abs/2308.04623)
+- Efficient Memory Management for Large Language Model Serving with PagedAttention (SOSP'23) [link to paper](https://arxiv.org/pdf/2309.06180.pdf)
 
 ## LLM Training Systems
 
