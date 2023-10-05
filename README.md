@@ -58,6 +58,8 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - BPIPE: Memory-Balanced Pipeline Parallelism for Training Large Language Models (ICML'23) [link to paper](https://openreview.net/pdf?id=HVKmLi1iR4)
 - Optimized Network Architectures for Large Language Model Training with Billions of Parameters (arXiv'23) [link to paper](https://arxiv.org/abs/2307.12169)
 - SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient (arXiv'23) [link to paper](https://arxiv.org/abs/2301.11913)
+- Blockwise Parallel Transformer for Large Context Models (arXiv'23) [link to paper](https://arxiv.org/abs/2305.19370)
+- Ring Attention with Blockwise Transformers for Near-Infinite Context (arXiv'23) [link to paper](https://arxiv.org/abs/2310.01889)
 
 ## General MLSys-Related Techniques (Not Complete)
 
