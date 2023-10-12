@@ -26,6 +26,10 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - An Efficient Sparse Inference Software Accelerator for Transformer-based Language Models on CPUs (arXiv'23) [link to paper](https://arxiv.org/abs/2306.16601)
 - Accelerating LLM Inference with Staged Speculative Decoding (arXiv'23) [link to paper](https://arxiv.org/abs/2308.04623)
 - Efficient Memory Management for Large Language Model Serving with PagedAttention (SOSP'23) [link to paper](https://arxiv.org/pdf/2309.06180.pdf)
+- EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models (arXiv'23) [link to paper](https://arxiv.org/pdf/2308.14352.pdf)
+- Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding (arXiv'23) [link to paper](https://arxiv.org/abs/2309.08168)
+- 
+
 
 ## LLM Training Systems
 
@@ -61,6 +65,13 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - SWARM Parallelism: Training Large Models Can Be Surprisingly Communication-Efficient (arXiv'23) [link to paper](https://arxiv.org/abs/2301.11913)
 - Blockwise Parallel Transformer for Large Context Models (NeurIPS'23) [link to paper](https://arxiv.org/abs/2305.19370)
 - Ring Attention with Blockwise Transformers for Near-Infinite Context (arXiv'23) [link to paper](https://arxiv.org/abs/2310.01889)
+- DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models (arXiv'23) [link to paper](https://arxiv.org/abs/2309.14509)
+- Effective Long-Context Scaling of Foundation Models (arXiv'23) [link to paper](https://arxiv.org/abs/2309.16039)
+- GrowLength: Accelerating LLMs Pretraining by Progressively Growing Training Length (arXiv'23) [link to paper](https://arxiv.org/abs/2310.00576)
+- LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers (arXiv'23) [link to paper](https://arxiv.org/abs/2310.03294)
+- Efficient Streaming Language Models with Attention Sinks (arXiv'23) [link to paper](https://arxiv.org/abs/2309.17453)
+
+
 
 ## General MLSys-Related Techniques (Not Complete)
 
@@ -106,11 +117,22 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - TransNormer: Scaling TransNormer to 175 Billion Parameters (arXiv'23)[link to paper](https://arxiv.org/abs/2307.14995)
 - Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding (arXiv'23)[link to paper](https://arxiv.org/abs/2307.15337)
 - From Sparse to Soft Mixture of Experts (arXiv'23)[link to paper](https://arxiv.org/abs/2308.00951)
+- One Wide Feedforward is All You Need (arXiv'23)[link to paper](https://arxiv.org/abs/2309.01826)
+- Gated recurrent neural networks discover attention (arXiv'23)[link to paper](https://arxiv.org/abs/2309.01775)
+- Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning (arXiv'23)[link to paper](https://arxiv.org/abs/2309.05444)
+- Scaling Laws for Sparsely-Connected Foundation Models (arXiv'23)[link to paper](https://arxiv.org/abs/2309.08520)
+- Sorted LLaMA: Unlocking the Potential of Intermediate Layers of Large Language Models for Dynamic Inference Using Sorted Fine-Tuning (SoFT) (arXiv'23)[link to paper](https://arxiv.org/abs/2309.08968)
+- LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models (arXiv'23)[link to paper](https://arxiv.org/abs/2309.12307)
+- PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training (arXiv'23)[link to paper](https://arxiv.org/abs/2309.10400)
+- Retrieval meets Long Context Large Language Models (arXiv'23)[link to paper](https://arxiv.org/abs/2310.03025)
+- HyperAttention: Long-context Attention in Near-Linear Time (arXiv'23)[link to paper](https://arxiv.org/abs/2310.05869)
+
 
 
 ## Survyes
 - A Survey of Large Language Models (arXiv'23) [link to paper](https://arxiv.org/abs/2303.18223)
 - Challenges and Applications of Large Language Models (arXiv'23)[link to paper](https://arxiv.org/abs/2307.10169)
+- FLM-101B: An Open LLM and How to Train It with $100K Budget (arXiv'23)[link to paper](https://arxiv.org/abs/2309.03852)
 
 
 ## Other Useful Resources
