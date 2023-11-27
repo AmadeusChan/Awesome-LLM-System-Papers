@@ -96,12 +96,14 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Language Models are Unsupervised Multitask Learners (preprint from OpenAI) [link to paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 - Improving Language Understanding by Generative Pretraining (preprint from OpenAI) [link to paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - Language Models are Few-Shot Learners (NeurIPS'20) [link to paper](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+- GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding (ICLR'20) [link to paper](https://openreview.net/forum?id=qrwe7XHTmYb)
 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (JMLR'20) [link to paper](https://jmlr.org/papers/volume21/20-074/20-074.pdf)
 - Multitask Prompted Training Enables Zero-Shot Task Generalization (ICLR'22) [link to paper](https://openreview.net/pdf?id=9Vrb9D0WI4)
 - Finetuned Language Models are Zero-Shot Learners (ICLR'22) [link to paper](https://openreview.net/forum?id=gEZrGCozdqR)
 - GLaM: Efficient Scaling of Language Models with Mixture-of-Experts (ICML'22) [link to paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C15&q=GLaM%3A+Efficient+Scaling+of+Language+Models+with+Mixture-of-Experts&btnG=)
 - LaMDA: Language Models for Dialog Applications (arXiv'22) [link to paper](https://arxiv.org/pdf/2201.08239.pdf)
 - PaLM: Scaling Language Modeling with Pathways (arXiv'22) [link to paper](https://arxiv.org/pdf/2204.02311.pdf)
+- Lora: Low-rank adaptation of large language models (ICLR'22) [link to paper](https://openreview.net/forum?id=nZeVKeeFYf9)
 - OPT: Open Pre-trained Transformer Language Models (arXiv'22) [link to paper](https://arxiv.org/pdf/2205.01068.pdf?fbclid=IwAR1_0YiQKgxIsy8unzoLvL9E2OA41_kze-H0YvhoCzIQUp_gk-MR9dUs2ZE)
 - Holistic Evaluation of Language Models (arXiv'22) [link to paper](https://arxiv.org/pdf/2211.09110.pdf)
 - BLOOM: A 176B-Parameter Open-Access Multilingual Language Model (arXiv'23) [link to paper](https://arxiv.org/pdf/2211.05100.pdf)
@@ -139,5 +141,6 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 ## Other Useful Resources
 
 - [FasterTransformer](https://on-demand.gputechconf.com/gtc-cn/2019/pdf/CN9468/presentation.pdf)
-- [An Awesome ML Course](https://www.youtube.com/@deeplearningsystemscourse1116)
+- [An Awesome MLSys Course](https://www.youtube.com/@deeplearningsystemscourse1116)
+- [An Awesome Efficient ML Course](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
 - [An Awesome ML textbook](https://d2l.ai/)
