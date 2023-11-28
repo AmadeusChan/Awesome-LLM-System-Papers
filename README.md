@@ -31,6 +31,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding (arXiv'23) [link to paper](https://arxiv.org/abs/2309.08168)
 - S3: Increasing GPU Utilization during Generative Inference for Higher Throughput (arXiv'23) [link to paper](https://arxiv.org/abs/2306.06000)
 - Punica: Multi-Tenant LoRA Serving (arXiv'23) [link to paper](https://arxiv.org/pdf/2310.18547.pdf)
+- S-LoRA: Serving Thousands of Concurrent LoRA Adapters (arXiv'23) [link to paper](https://arxiv.org/pdf/2311.03285.pdf)
 
 
 ## LLM Training Systems
