@@ -103,6 +103,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Multitask Prompted Training Enables Zero-Shot Task Generalization (ICLR'22) [link to paper](https://openreview.net/pdf?id=9Vrb9D0WI4)
 - Finetuned Language Models are Zero-Shot Learners (ICLR'22) [link to paper](https://openreview.net/forum?id=gEZrGCozdqR)
 - GLaM: Efficient Scaling of Language Models with Mixture-of-Experts (ICML'22) [link to paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C15&q=GLaM%3A+Efficient+Scaling+of+Language+Models+with+Mixture-of-Experts&btnG=)
+- Training language models to follow instructions with human feedback (NeurIPS'22) [link to paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
 - LaMDA: Language Models for Dialog Applications (arXiv'22) [link to paper](https://arxiv.org/pdf/2201.08239.pdf)
 - PaLM: Scaling Language Modeling with Pathways (arXiv'22) [link to paper](https://arxiv.org/pdf/2204.02311.pdf)
 - Lora: Low-rank adaptation of large language models (ICLR'22) [link to paper](https://openreview.net/forum?id=nZeVKeeFYf9)
