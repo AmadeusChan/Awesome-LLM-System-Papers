@@ -35,6 +35,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - S-LoRA: Serving Thousands of Concurrent LoRA Adapters (arXiv'23) [link to paper](https://arxiv.org/pdf/2311.03285.pdf)
 - Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time (ICML'23) [link to paper](https://arxiv.org/pdf/2310.17157.pdf)
 - Splitwise: Efficient Generative LLM Inference Using Phase Splitting (arXiv'23) [link to paper](https://arxiv.org/pdf/2311.18677.pdf)
+- SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills (arXiv'23) [link to paper](https://arxiv.org/pdf/2308.16369.pdf)
 
 ## LLM Training Systems
 
