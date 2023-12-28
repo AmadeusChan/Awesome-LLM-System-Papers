@@ -16,6 +16,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - PetS: A Unified Framework for Parameter-Efficient Transformers Serving (ATC'22) [link to paper](https://www.usenix.org/system/files/atc22-zhou-zhe.pdf)
 - FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU (ICML'23) [link to paper](https://arxiv.org/pdf/2303.06865.pdf)
 - PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU (preprint'23) [link to paper](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
+- LLM in a flash: Efficient Large Language Model Inference with Limited Memory (arXiv'23) [link to paper](https://arxiv.org/pdf/2312.11514.pdf)
 
 ### Distributed Systems
 
