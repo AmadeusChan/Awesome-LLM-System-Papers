@@ -38,6 +38,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Splitwise: Efficient Generative LLM Inference Using Phase Splitting (arXiv'23) [link to paper](https://arxiv.org/pdf/2311.18677.pdf)
 - SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills (arXiv'23) [link to paper](https://arxiv.org/pdf/2308.16369.pdf)
 - SpotServe: Serving Generative Large Language Models on Preemptible Instances (ASPLOS'24) [link to paper](https://arxiv.org/pdf/2311.15566.pdf)
+- Multi-Candidate Speculative Decoding (arXiv'24) [link to paper](https://arxiv.org/abs/2401.06706)
 
 ## LLM Training Systems
 
