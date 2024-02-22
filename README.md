@@ -155,3 +155,4 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - [An Awesome MLSys Course](https://www.youtube.com/@deeplearningsystemscourse1116)
 - [An Awesome Efficient ML Course](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
 - [An Awesome ML textbook](https://d2l.ai/)
+- [An Awesome Handbook for Efficient GPU Programming](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html)
