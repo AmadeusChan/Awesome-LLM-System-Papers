@@ -10,22 +10,17 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 
 ## LLM Inference (Serving) Systems
 
-### Single-GPU Systems
-
+- Orca: A Distributed Serving System for Transformer-Based Generative Models (OSDI'22) [link to paper](https://www.usenix.org/conference/osdi22/presentation/yu)
 - TurboTransformers: An Efficient GPU Serving System For Transformer Models (PPoPP'21) [link to paper](https://dl.acm.org/doi/pdf/10.1145/3437801.3441578)
 - PetS: A Unified Framework for Parameter-Efficient Transformers Serving (ATC'22) [link to paper](https://www.usenix.org/system/files/atc22-zhou-zhe.pdf)
-- FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU (ICML'23) [link to paper](https://arxiv.org/pdf/2303.06865.pdf)
-- PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU (preprint'23) [link to paper](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
-- LLM in a flash: Efficient Large Language Model Inference with Limited Memory (arXiv'23) [link to paper](https://arxiv.org/pdf/2312.11514.pdf)
-
-### Distributed Systems
-
-- Orca: A Distributed Serving System for Transformer-Based Generative Models (OSDI'22) [link to paper](https://www.usenix.org/conference/osdi22/presentation/yu)
 - DeepSpeed-inference: enabling efficient inference of transformer models at unprecedented scale (SC'22) [link to paper](https://dl.acm.org/doi/abs/10.5555/3571885.3571946)
 - EnergeonAI: An Inference System for 10-100 Billion Parameter Transformer Models (arXiv'22) [link to paper](https://arxiv.org/pdf/2209.02341.pdf)
 - PETALS: Collaborative Inference and Fine-tuning of Large Models (NeurIPS'22 Workshop WBRC) [link to paper](https://openreview.net/pdf?id=Ls_NTjgWXZV)
 - SpecInfer: Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification (preprint'23) [link to paper](https://www.cs.cmu.edu/~zhihaoj2/papers/specinfer.pdf)
 - Fast Distributed Inference Serving for Large Language Models (arXiv'23) [link to paper](https://arxiv.org/pdf/2305.05920.pdf)
+- FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU (ICML'23) [link to paper](https://arxiv.org/pdf/2303.06865.pdf)
+- PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU (preprint'23) [link to paper](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
+- LLM in a flash: Efficient Large Language Model Inference with Limited Memory (arXiv'23) [link to paper](https://arxiv.org/pdf/2312.11514.pdf)
 - An Efficient Sparse Inference Software Accelerator for Transformer-based Language Models on CPUs (arXiv'23) [link to paper](https://arxiv.org/abs/2306.16601)
 - Accelerating LLM Inference with Staged Speculative Decoding (arXiv'23) [link to paper](https://arxiv.org/abs/2308.04623)
 - Efficient Memory Management for Large Language Model Serving with PagedAttention (SOSP'23) [link to paper](https://arxiv.org/pdf/2309.06180.pdf)
@@ -41,6 +36,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Multi-Candidate Speculative Decoding (arXiv'24) [link to paper](https://arxiv.org/abs/2401.06706)
 - Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache (arXiv'24) [link to paper](https://arxiv.org/pdf/2401.02669.pdf)
 - Break the Sequential Dependency of LLM Inference Using Lookahead Decoding (arxiV'24) [link to paper](https://arxiv.org/pdf/2402.02057.pdf)
+- SuperServe: Fine-Grained Inference Serving for Unpredictable Workloads [link to paper](https://arxiv.org/pdf/2312.16733v1.pdf)
 
 ## LLM Training Systems
 
