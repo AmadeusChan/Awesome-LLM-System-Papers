@@ -32,11 +32,11 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time (ICML'23) [link to paper](https://arxiv.org/pdf/2310.17157.pdf)
 - Splitwise: Efficient Generative LLM Inference Using Phase Splitting (arXiv'23) [link to paper](https://arxiv.org/pdf/2311.18677.pdf)
 - SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills (arXiv'23) [link to paper](https://arxiv.org/pdf/2308.16369.pdf)
+- SuperServe: Fine-Grained Inference Serving for Unpredictable Workloads (arXiv'23) [link to paper](https://arxiv.org/pdf/2312.16733v1.pdf)
 - SpotServe: Serving Generative Large Language Models on Preemptible Instances (ASPLOS'24) [link to paper](https://arxiv.org/pdf/2311.15566.pdf)
 - Multi-Candidate Speculative Decoding (arXiv'24) [link to paper](https://arxiv.org/abs/2401.06706)
 - Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache (arXiv'24) [link to paper](https://arxiv.org/pdf/2401.02669.pdf)
-- Break the Sequential Dependency of LLM Inference Using Lookahead Decoding (arxiV'24) [link to paper](https://arxiv.org/pdf/2402.02057.pdf)
-- SuperServe: Fine-Grained Inference Serving for Unpredictable Workloads [link to paper](https://arxiv.org/pdf/2312.16733v1.pdf)
+- Break the Sequential Dependency of LLM Inference Using Lookahead Decoding (arXiv'24) [link to paper](https://arxiv.org/pdf/2402.02057.pdf)
 
 ## LLM Training Systems
 
