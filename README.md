@@ -143,7 +143,13 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - A Survey of Large Language Models (arXiv'23) [link to paper](https://arxiv.org/abs/2303.18223)
 - Challenges and Applications of Large Language Models (arXiv'23)[link to paper](https://arxiv.org/abs/2307.10169)
 - FLM-101B: An Open LLM and How to Train It with $100K Budget (arXiv'23)[link to paper](https://arxiv.org/abs/2309.03852)
+- Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems (arXiv'23)[link to paper](https://arxiv.org/pdf/2312.15234.pdf)
 
+## Awesome Open-Sourced LLMSys Projects
+- [vLLM](https://github.com/vllm-project/vllm)
+- [llama.cpp](https://github.com/ggerganov/llama.cpp)
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed)
+- [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
 
 ## Other Useful Resources
 
