@@ -37,6 +37,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Multi-Candidate Speculative Decoding (arXiv'24) [link to paper](https://arxiv.org/abs/2401.06706)
 - Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache (arXiv'24) [link to paper](https://arxiv.org/pdf/2401.02669.pdf)
 - Break the Sequential Dependency of LLM Inference Using Lookahead Decoding (arXiv'24) [link to paper](https://arxiv.org/pdf/2402.02057.pdf)
+- FASTDECODE: High-Throughput GPU-Efficient LLM Serving using Heterogeneous Pipelines (arXiv'24) [link to paper](https://arxiv.org/pdf/2403.11421.pdf)
 
 ## LLM Training Systems
 
