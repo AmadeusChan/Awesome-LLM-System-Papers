@@ -33,11 +33,13 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Splitwise: Efficient Generative LLM Inference Using Phase Splitting (arXiv'23) [link to paper](https://arxiv.org/pdf/2311.18677.pdf)
 - SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills (arXiv'23) [link to paper](https://arxiv.org/pdf/2308.16369.pdf)
 - SuperServe: Fine-Grained Inference Serving for Unpredictable Workloads (arXiv'23) [link to paper](https://arxiv.org/pdf/2312.16733v1.pdf)
+- Efficiently Programming Large Language Models using SGLang (arXiv'23) [link to paper](https://arxiv.org/abs/2312.07104)
 - SpotServe: Serving Generative Large Language Models on Preemptible Instances (ASPLOS'24) [link to paper](https://arxiv.org/pdf/2311.15566.pdf)
 - Multi-Candidate Speculative Decoding (arXiv'24) [link to paper](https://arxiv.org/abs/2401.06706)
 - Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache (arXiv'24) [link to paper](https://arxiv.org/pdf/2401.02669.pdf)
 - Break the Sequential Dependency of LLM Inference Using Lookahead Decoding (arXiv'24) [link to paper](https://arxiv.org/pdf/2402.02057.pdf)
 - FASTDECODE: High-Throughput GPU-Efficient LLM Serving using Heterogeneous Pipelines (arXiv'24) [link to paper](https://arxiv.org/pdf/2403.11421.pdf)
+
 
 ## LLM Training Systems
 
@@ -151,6 +153,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - [llama.cpp](https://github.com/ggerganov/llama.cpp)
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed)
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
+- [SGLang](https://github.com/sgl-project/sglang/tree/main)
 
 ## Other Useful Resources
 
