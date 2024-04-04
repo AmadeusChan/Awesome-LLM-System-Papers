@@ -98,6 +98,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications (OSDI'20) [link to paper](https://www.usenix.org/system/files/osdi20-bai.pdf)
 - Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences (OSDI'22) [link to paper](https://www.usenix.org/conference/osdi22/presentation/han)
 - Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models (ASPLOS'23) [link to paper](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959)
+- AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving (OSDI'23) [link to paper](https://www.usenix.org/system/files/osdi23-li-zhuohan.pdf)
 
 
 ## LLM Algorithm Papers Recommended for System Researchers
