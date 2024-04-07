@@ -156,6 +156,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed)
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
 - [SGLang](https://github.com/sgl-project/sglang/tree/main)
+- [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
 
 ## Other Useful Resources
 
