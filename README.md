@@ -41,7 +41,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - FASTDECODE: High-Throughput GPU-Efficient LLM Serving using Heterogeneous Pipelines (arXiv'24) [link to paper](https://arxiv.org/pdf/2403.11421.pdf)
 - FlexLLM: A System for Co-Serving Large Language Model Inference and Parameter-Efficient Finetuning (arXiv'24) [link to paper](https://arxiv.org/pdf/2402.18789.pdf)
 - Inference without Interference: Disaggregate LLM Inference for Mixed Downstream Workloads (arXiv'24) [link to paper](https://arxiv.org/pdf/2401.11181.pdf)
-- MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving (arXiv'24) [link to paper](https://arxiv.org/pdf/2401.09670.pdf)
+- MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving (arXiv'24) [link to paper](https://arxiv.org/pdf/2404.02015.pdf)
 - DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving (arXiv'24) [link to paper](https://arxiv.org/pdf/2401.09670.pdf)
 
 ## LLM Training Systems
