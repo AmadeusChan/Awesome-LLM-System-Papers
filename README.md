@@ -83,7 +83,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - GrowLength: Accelerating LLMs Pretraining by Progressively Growing Training Length (arXiv'23) [link to paper](https://arxiv.org/abs/2310.00576)
 - LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers (arXiv'23) [link to paper](https://arxiv.org/abs/2310.03294)
 - Efficient Streaming Language Models with Attention Sinks (arXiv'23) [link to paper](https://arxiv.org/abs/2309.17453)
-
+- PatrickStar: Parallel Training of Pre-trained Models via Chunk-based Memory Management (TPDS'23) [link to paper](https://arxiv.org/abs/2108.05818)
 
 
 ## General MLSys-Related Techniques (Not Complete)
