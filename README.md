@@ -30,7 +30,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Punica: Multi-Tenant LoRA Serving (arXiv'23) [link to paper](https://arxiv.org/pdf/2310.18547.pdf)
 - S-LoRA: Serving Thousands of Concurrent LoRA Adapters (arXiv'23) [link to paper](https://arxiv.org/pdf/2311.03285.pdf)
 - Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time (ICML'23) [link to paper](https://arxiv.org/pdf/2310.17157.pdf)
-- Splitwise: Efficient Generative LLM Inference Using Phase Splitting (arXiv'23) [link to paper](https://arxiv.org/pdf/2311.18677.pdf)
+- Splitwise: Efficient Generative LLM Inference Using Phase Splitting (arXiv'23, update: ISCA'24) [link to paper](https://arxiv.org/pdf/2311.18677.pdf)
 - SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills (arXiv'23) [link to paper](https://arxiv.org/pdf/2308.16369.pdf)
 - SuperServe: Fine-Grained Inference Serving for Unpredictable Workloads (arXiv'23) [link to paper](https://arxiv.org/pdf/2312.16733v1.pdf)
 - Efficiently Programming Large Language Models using SGLang (arXiv'23) [link to paper](https://arxiv.org/abs/2312.07104)
@@ -43,8 +43,15 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Inference without Interference: Disaggregate LLM Inference for Mixed Downstream Workloads (arXiv'24) [link to paper](https://arxiv.org/pdf/2401.11181.pdf)
 - MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving (arXiv'24) [link to paper](https://arxiv.org/pdf/2404.02015.pdf)
 - DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving (arXiv'24) [link to paper](https://arxiv.org/pdf/2401.09670.pdf)
+
+## On-device LLM Inference (Serving) Systems
 - PowerInfer-2: Fast Large Language Model Inference on a Smartphone (arXiv'24) [link to paper](https://arxiv.org/pdf/2406.06282.pdf)
 - Empowering 1000 tokens/second on-device LLM prefilling with mllm-NPU (arXiv'24) [link to paper](https://arxiv.org/pdf/2407.05858.pdf)
+
+### Profiling and Benchmark Systems
+- MELTing point: Mobile Evaluation of Language Transformers (MobiCom'24) [link to paper](https://arxiv.org/pdf/2403.12844.pdf)
+- MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases (NeurIPS'24) [link to paper](https://arxiv.org/pdf/2406.10290.pdf)
+
 
 ## LLM Training Systems
 
@@ -88,7 +95,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - PatrickStar: Parallel Training of Pre-trained Models via Chunk-based Memory Management (TPDS'23) [link to paper](https://arxiv.org/abs/2108.05818)
 
 
-## General MLSys-Related Techniques (Not Complete)
+## General MLSys-Related Techniques (Incomplete)
 
 - Efficient GPU Spatial-Temporal Multitasking (TPDS'14) [link to paper](https://ieeexplore.ieee.org/document/6777559)
 - Enabling preemptive multiprogramming on GPUs (ISCA'14) [link to paper](https://ieeexplore.ieee.org/document/6853208)
@@ -103,6 +110,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences (OSDI'22) [link to paper](https://www.usenix.org/conference/osdi22/presentation/han)
 - Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models (ASPLOS'23) [link to paper](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959)
 - AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving (OSDI'23) [link to paper](https://www.usenix.org/system/files/osdi23-li-zhuohan.pdf)
+- Benchmarking and Dissecting the Nvidia Hopper GPU Architecture (IPDPS'24) [link to paper](https://arxiv.org/pdf/2402.13499v1.pdf)
 
 
 ## LLM Algorithm Papers Recommended for System Researchers
