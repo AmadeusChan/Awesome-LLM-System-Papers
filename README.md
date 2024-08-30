@@ -169,6 +169,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
 - [SGLang](https://github.com/sgl-project/sglang/tree/main)
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+- [MLC-LLM](https://github.com/mlc-ai/mlc-llm)
 
 ## Other Useful Resources
 
