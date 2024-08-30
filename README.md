@@ -43,6 +43,8 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Inference without Interference: Disaggregate LLM Inference for Mixed Downstream Workloads (arXiv'24) [link to paper](https://arxiv.org/pdf/2401.11181.pdf)
 - MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving (arXiv'24) [link to paper](https://arxiv.org/pdf/2404.02015.pdf)
 - DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving (arXiv'24) [link to paper](https://arxiv.org/pdf/2401.09670.pdf)
+- PowerInfer-2: Fast Large Language Model Inference on a Smartphone (arXiv'24) [link to paper](https://arxiv.org/pdf/2406.06282.pdf)
+- Empowering 1000 tokens/second on-device LLM prefilling with mllm-NPU (arXiv'24) [link to paper](https://arxiv.org/pdf/2407.05858.pdf)
 
 ## LLM Training Systems
 
