@@ -153,6 +153,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training (arXiv'23)[link to paper](https://arxiv.org/abs/2309.10400)
 - Retrieval meets Long Context Large Language Models (arXiv'23)[link to paper](https://arxiv.org/abs/2310.03025)
 - HyperAttention: Long-context Attention in Near-Linear Time (arXiv'23)[link to paper](https://arxiv.org/abs/2310.05869)
+- DeFT: Flash Tree-attention with IO-Awareness for Efficient Tree-search-based LLM Inference (ICLR'24)[link to paper](https://openreview.net/forum?id=HqfLHoX8bR)
 
 
 
