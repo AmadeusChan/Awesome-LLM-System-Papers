@@ -7,7 +7,6 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity (JMLR'21) [link to paper](https://www.jmlr.org/papers/volume23/21-0998/21-0998.pdf)
 - Scalable and Efficient MoE Training for Multitask Multilingual Models (arXiv'21) [link to paper](https://arxiv.org/pdf/2109.10465.pdf)
 - DeepSpeed-MOE: Advancing Mixture of Experts Inference and Training to Power Next-Generation AI Scale (ICML'22) [link to paper](https://proceedings.mlr.press/v162/rajbhandari22a/rajbhandari22a.pdf)
-- DeepSeek-V3 Technical Report [link to paper](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf)
 
 ## LLM Inference (Serving) Systems
 
@@ -155,7 +154,8 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - PoSE: Efficient Context Window Extension of LLMs via Positional Skip-wise Training (arXiv'23)[link to paper](https://arxiv.org/abs/2309.10400)
 - Retrieval meets Long Context Large Language Models (arXiv'23)[link to paper](https://arxiv.org/abs/2310.03025)
 - HyperAttention: Long-context Attention in Near-Linear Time (arXiv'23)[link to paper](https://arxiv.org/abs/2310.05869)
-
+- **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning** [link to paper](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
+- **DeepSeek-V3 Technical Report** [link to paper](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf)
 
 
 ## Survyes
