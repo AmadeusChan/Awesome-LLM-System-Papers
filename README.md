@@ -44,6 +44,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving (arXiv'24) [link to paper](https://arxiv.org/pdf/2404.02015.pdf)
 - DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving (arXiv'24) [link to paper](https://arxiv.org/pdf/2401.09670.pdf)
 - DeFT: Flash Tree-attention with IO-Awareness for Efficient Tree-search-based LLM Inference (ICLR'24)[link to paper](https://openreview.net/forum?id=HqfLHoX8bR)
+- Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation (SIGMOD'25)[link to paper](https://www.arxiv.org/pdf/2502.15734)
 
 ## On-device LLM Inference (Serving) Systems
 - PowerInfer-2: Fast Large Language Model Inference on a Smartphone (arXiv'24) [link to paper](https://arxiv.org/pdf/2406.06282.pdf)
