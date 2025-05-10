@@ -42,7 +42,8 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - FlexLLM: A System for Co-Serving Large Language Model Inference and Parameter-Efficient Finetuning (arXiv'24) [link to paper](https://arxiv.org/pdf/2402.18789.pdf)
 - Inference without Interference: Disaggregate LLM Inference for Mixed Downstream Workloads (arXiv'24) [link to paper](https://arxiv.org/pdf/2401.11181.pdf)
 - MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving (arXiv'24) [link to paper](https://arxiv.org/pdf/2404.02015.pdf)
-- DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving (arXiv'24) [link to paper](https://arxiv.org/pdf/2401.09670.pdf)
+- DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving (OSDI'24) [link to paper](https://arxiv.org/pdf/2401.09670.pdf)
+- LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism (SOSP'24) [link to paper](https://arxiv.org/abs/2404.09526)
 - DeFT: Flash Tree-attention with IO-Awareness for Efficient Tree-search-based LLM Inference (ICLR'24)[link to paper](https://openreview.net/forum?id=HqfLHoX8bR)
 - Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation (SIGMOD'25)[link to paper](https://www.arxiv.org/pdf/2502.15734)
 
@@ -96,6 +97,9 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Efficient Streaming Language Models with Attention Sinks (arXiv'23) [link to paper](https://arxiv.org/abs/2309.17453)
 - PatrickStar: Parallel Training of Pre-trained Models via Chunk-based Memory Management (TPDS'23) [link to paper](https://arxiv.org/abs/2108.05818)
 - Zero Bubble Pipeline Parallelism (ICLR'24) [link to paper](https://openreview.net/pdf?id=tuzTN0eIO5)
+- DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models (arXiv'24) [link to paper](https://arxiv.org/abs/2408.04275)
+- WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training (arXiv'25) [link to paper](https://arxiv.org/abs/2503.17924)
+- PipeWeaver: Addressing Data Dynamicity in Large Multimodal Model Training with Dynamic Interleaved Pipeline (arXiv'25) [link to paper](https://arxiv.org/abs/2504.14145)
 
 
 ## General MLSys-Related Techniques (Incomplete)
