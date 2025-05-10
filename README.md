@@ -95,6 +95,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers (arXiv'23) [link to paper](https://arxiv.org/abs/2310.03294)
 - Efficient Streaming Language Models with Attention Sinks (arXiv'23) [link to paper](https://arxiv.org/abs/2309.17453)
 - PatrickStar: Parallel Training of Pre-trained Models via Chunk-based Memory Management (TPDS'23) [link to paper](https://arxiv.org/abs/2108.05818)
+- Zero Bubble Pipeline Parallelism (ICLR'24) [link to paper](https://openreview.net/pdf?id=tuzTN0eIO5)
 
 
 ## General MLSys-Related Techniques (Incomplete)
@@ -174,6 +175,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
 - [MLC-LLM](https://github.com/mlc-ai/mlc-llm)
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+- [ktransformers](https://github.com/kvcache-ai/ktransformers)
 
 ## Other Useful Resources
 
