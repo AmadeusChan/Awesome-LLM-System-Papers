@@ -98,6 +98,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - PatrickStar: Parallel Training of Pre-trained Models via Chunk-based Memory Management (TPDS'23) [link to paper](https://arxiv.org/abs/2108.05818)
 - Zero Bubble Pipeline Parallelism (ICLR'24) [link to paper](https://openreview.net/pdf?id=tuzTN0eIO5)
 - DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models (arXiv'24) [link to paper](https://arxiv.org/abs/2408.04275)
+- HybridFlow: A Flexible and Efficient RLHF Framework (arXiv'24) [link to paper](https://arxiv.org/pdf/2409.19256)
 - WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training (arXiv'25) [link to paper](https://arxiv.org/abs/2503.17924)
 - PipeWeaver: Addressing Data Dynamicity in Large Multimodal Model Training with Dynamic Interleaved Pipeline (arXiv'25) [link to paper](https://arxiv.org/abs/2504.14145)
 
@@ -180,6 +181,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - [MLC-LLM](https://github.com/mlc-ai/mlc-llm)
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 - [ktransformers](https://github.com/kvcache-ai/ktransformers)
+- [verl](https://github.com/volcengine/verl)
 
 ## Other Useful Resources
 
