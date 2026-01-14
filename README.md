@@ -46,6 +46,12 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - LoongServe: Efficiently Serving Long-Context Large Language Models with Elastic Sequence Parallelism (SOSP'24) [link to paper](https://arxiv.org/abs/2404.09526)
 - DeFT: Flash Tree-attention with IO-Awareness for Efficient Tree-search-based LLM Inference (ICLR'24)[link to paper](https://openreview.net/forum?id=HqfLHoX8bR)
 - Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation (SIGMOD'25)[link to paper](https://www.arxiv.org/pdf/2502.15734)
+- NanoFlow: Towards Optimal Large Language Model Serving Throughput (OSDI'25) [link to paper](https://www.usenix.org/conference/osdi25/presentation/zhu-kan)
+- Pie: A Programmable Serving System for Emerging LLM Applications (SOSP'25) [link to paper](https://dl.acm.org/doi/10.1145/3731569.3764814)
+- DiffKV: Differentiated Memory Management for Large Language Models with Parallel KV Compaction (SOSP'25) [link to paper](https://dl.acm.org/doi/10.1145/3731569.3764810)
+- Jenga: Effective Memory Management for Serving LLM with Heterogeneity (SOSP'25) [link to paper](https://dl.acm.org/doi/10.1145/3731569.3764823)
+- IC-Cache: Efficient Large Language Model Serving via In-context Caching (SOSP'25) [link to paper](https://dl.acm.org/doi/10.1145/3731569.3764829)
+- PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications (SOSP'25) [link to paper](https://dl.acm.org/doi/10.1145/3731569.3764834)
 
 ## On-device LLM Inference (Serving) Systems
 - PowerInfer-2: Fast Large Language Model Inference on a Smartphone (arXiv'24) [link to paper](https://arxiv.org/pdf/2406.06282.pdf)
@@ -99,9 +105,10 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Zero Bubble Pipeline Parallelism (ICLR'24) [link to paper](https://openreview.net/pdf?id=tuzTN0eIO5)
 - DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models (arXiv'24) [link to paper](https://arxiv.org/abs/2408.04275)
 - HybridFlow: A Flexible and Efficient RLHF Framework (arXiv'24) [link to paper](https://arxiv.org/pdf/2409.19256)
-- WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training (arXiv'25) [link to paper](https://arxiv.org/abs/2503.17924)
+- WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training (OSDI'25) [link to paper](https://arxiv.org/abs/2503.17924)
 - PipeWeaver: Addressing Data Dynamicity in Large Multimodal Model Training with Dynamic Interleaved Pipeline (arXiv'25) [link to paper](https://arxiv.org/abs/2504.14145)
-
+- Mesh-Attention: A New Communication-Efficient Distributed Attention with Improved Data Locality (arXiv'25) [link to paper](https://arxiv.org/pdf/2512.20968)
+- DCP: Addressing Input Dynamism In Long-Context Training via Dynamic Context Parallelism (SOSP'25) [link to paper](https://dl.acm.org/doi/10.1145/3731569.3764849)
 
 ## General MLSys-Related Techniques (Incomplete)
 
