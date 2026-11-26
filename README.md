@@ -52,6 +52,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - Jenga: Effective Memory Management for Serving LLM with Heterogeneity (SOSP'25) [link to paper](https://dl.acm.org/doi/10.1145/3731569.3764823)
 - IC-Cache: Efficient Large Language Model Serving via In-context Caching (SOSP'25) [link to paper](https://dl.acm.org/doi/10.1145/3731569.3764829)
 - PrefillOnly: An Inference Engine for Prefill-only Workloads in Large Language Model Applications (SOSP'25) [link to paper](https://dl.acm.org/doi/10.1145/3731569.3764834)
+- The FastPath Agentic Recipe: 50% More Agents and 60% More Throughput at Equal P90 Interactivity on Stock SGLang (Zenodo preprint'26) [link to paper](https://doi.org/10.5281/zenodo.24457433)
 
 ## On-device LLM Inference (Serving) Systems
 - PowerInfer-2: Fast Large Language Model Inference on a Smartphone (arXiv'24) [link to paper](https://arxiv.org/pdf/2406.06282.pdf)
